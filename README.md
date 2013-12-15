@@ -1,4 +1,4 @@
-WP_Taxonomy_To_CSV
+WP_Taxonomy_Terms_And_Descriptions_To_CSV
 ==================
 
-Exports ALL WordPress Taxonomies and Terms to a .CSV file.
+Exports top 2 levels of Terms for ALL WordPress Hierarchical Taxonomies to a .CSV file.
