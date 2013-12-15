@@ -8,3 +8,4 @@ Quick kludge for a common task that for some inexplicable reason seems to have n
 COMING SOON:
 - plugin to do this right
 - much undeserved fanfare
+- free beer and nerd-girl groupies
